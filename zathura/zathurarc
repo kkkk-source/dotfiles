@@ -1,0 +1,10 @@
+set selection-clipboard clipboard
+set adjust-open width
+set statusbar-h-padding 0
+set statusbar-v-padding 0
+set page-padding 1
+"set recolor true
+
+"set zoom-min 20
+set statusbar-fg "#000000" #04
+set statusbar-bg "#ffffff" #01
